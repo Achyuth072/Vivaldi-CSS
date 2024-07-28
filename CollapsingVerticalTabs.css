@@ -1,9 +1,11 @@
+
+/* Tab Bar Configuration Variables */
 :root {
---closeDelay: 180ms;
---openDelay: 70ms;
---expandedWidth: 200px;
---collapsedWidth: 32px;
---transitionTiming: 50ms ease-out;
+    --closeDelay: 180ms;       /* Delay before tab bar closes after mouse leaves */
+    --openDelay: 70ms;         /* Delay before tab bar opens on hover */
+    --expandedWidth: 200px;    /* Width of tab bar when expanded */
+    --collapsedWidth: 32px;    /* Width of tab bar when collapsed */
+    --transitionTiming: 50ms ease-out;  /* Speed and style of open/close animation */
 }
 
 /* Tab Bar Expansion and Hover Behavior */

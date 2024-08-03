@@ -1,6 +1,12 @@
 # Vivaldi-CSS
 A WIP mod collection for Vivaldi by a wannabe coder!
 
+### Installation
+1. Open Vivaldi browser settings
+2. Navigate to Appearance > Custom UI Modifictions
+3. Select a folder as your CSS mod folder and create/move CollapsingVerticalTabs.css to that folder
+4. Restart Vivaldi
+
 ## Collapsing Vertical Tabs for Vivaldi
 A CSS mod that allows you to have a auto collapsing vertical tabs in Vivaldi.
 
@@ -11,12 +17,6 @@ A CSS mod that allows you to have a auto collapsing vertical tabs in Vivaldi.
 - Floating tabs.
 - Customizable widths for collapsed and expanded states; sort of.
 - Snappier transitions; too snappy at times.
-
-## Installation
-1. Open Vivaldi browser settings
-2. Navigate to Appearance > Custom UI Modifictions
-3. Select a folder as your CSS mod folder and create/move CollapsingVerticalTabs.css to that folder
-4. Restart Vivaldi
 
 ## Confuguration
 Customizable variables in the CSS:

@@ -9,6 +9,7 @@
 }
 
 /* Tab Bar Expansion and Hover Behavior */
+
 .tabbar-wrapper .tabbar-wrapper,
 #tabs-container.left,
 #tabs-subcontainer.left,
@@ -182,7 +183,7 @@ button.ToolbarButton-Button[name="WorkspaceButton"] {
 display: flex !important;
 }
 
-/* Disable tabbar resizing (sort of by diabling resize pointer)*/
+/* Disable tabbar resizing (sort of by disabling resize pointer)*/
 #tabs-tabbar-container,
 #tabs-container,
 #tabs-subcontainer,
